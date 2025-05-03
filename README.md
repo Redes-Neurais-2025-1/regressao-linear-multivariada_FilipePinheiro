@@ -168,11 +168,11 @@ Bônus extras serão concedidos pelo uso consistente dos *commit types* abaixo:
 ### Reconhecimentos e Direitos Autorais
 
 ```
-@autor:                [Seu Nome]
-@contato:              [Seu Email]
-@data última versão:   28/04/2025
+@autor:                Filipe Pinheiro
+@contato:              filipe.pinheiro@discente.ufma.br
+@data última versão:   03/05/2025
 @versão:               2.0
-@outros repositórios:  [URLs opcionais]
+@outros repositórios:  https://github.com/Redes-Neurais-2025-1
 @Agradecimentos:       Universidade Federal do Maranhão (UFMA),
                        Prof. Dr. Thales Levi Azevedo Valente,
                        colegas de curso.
