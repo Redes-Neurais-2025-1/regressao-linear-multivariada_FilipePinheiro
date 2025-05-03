@@ -4,7 +4,7 @@
 @brief Calcula os parâmetros θ usando a Equação Normal.
 @details Este módulo contém uma função para calcular os parâmetros de um modelo
           de regressão linear utilizando a equação normal.
-@author Your Name <your.email@example.com>
+@author Filipe Pinheiro <filipe.pinheiro@discente.ufma.br>
 """
 
 import numpy as np

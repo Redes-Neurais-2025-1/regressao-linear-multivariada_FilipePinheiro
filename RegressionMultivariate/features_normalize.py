@@ -5,7 +5,7 @@
 @details Este módulo contém funções para normalizar as features de um dataset
           utilizando diferentes abordagens, como média e desvio padrão, ou
           mínimo e máximo.
-@author Your Name <your.email@example.com>
+@author Filipe Pinheiro <filipe.pinheiro@discente.ufma.br>
 """
 import numpy as np
 

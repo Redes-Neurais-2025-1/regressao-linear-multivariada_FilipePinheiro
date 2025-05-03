@@ -4,7 +4,7 @@
 @brief Computes the cost for multivariate linear regression.
 @details Este módulo contém uma função para calcular o custo de um modelo de regressão linear
           multivariada utilizando a função de custo de erro quadrático médio.
-@author Your Name <your.email@example.com>
+@author Filipe Pinheiro <filipe.pinheiro@discente.ufma.br>
 """
 
 import numpy as np
